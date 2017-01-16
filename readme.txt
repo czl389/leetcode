@@ -1,4 +1,5 @@
-﻿2017/1/13  Quesqion Solved:79/484
+﻿2017/1/16  Quesqion Solved:81/486
+2017/1/13  Quesqion Solved:79/484
 2017/1/12  Quesqion Solved:78/484
 2017/1/11  Quesqion Solved:77/484 the question sets is expanded day by day!aha
 2017/1/10  Quesqion Solved:76/481
