@@ -1,5 +1,18 @@
 ﻿
-Chinese new year is comming and I will rest for few days,See you next chinese year~
+## MY LEETCODE SUBMISSION
+
+last commit time is 1/20... 
+so when developing a habbit,don't interrupt...
+
+2017/8/14  solved question 354. Russian Doll Envelopes
+
+2017/8/14  solved question 11. Container With Most Water
+
+
+...
+
+Chinese new year is comming and I will rest for few days,
+See you next chinese year~
 
 
 
@@ -24,7 +37,8 @@ Chinese new year is comming and I will rest for few days,See you next chinese ye
 2017/1/12  Quesqion Solved:78/484
 
 
-2017/1/11  Quesqion Solved:77/484 the question sets is expanded day by day!aha
+2017/1/11  Quesqion Solved:77/484 
+(aha,the question sets is expanded day by day!)
 
 
 2017/1/10  Quesqion Solved:76/481
@@ -42,8 +56,8 @@ Chinese new year is comming and I will rest for few days,See you next chinese ye
 2017/1/4  Quesqion Solved:72/470
 
 
-2017/1/3  Quesqion Solved:71/470    happy new year!
-
+2017/1/3  Quesqion Solved:71/470    
+(happy new year!)
 
 2016/12/30  Quesqion Solved:70/470
 
